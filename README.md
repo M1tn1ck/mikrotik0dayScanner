@@ -9,3 +9,10 @@ The weakness exists due to improper authentication in the exposed by default Win
 
 Successful exploitation of the vulnerability may result in system compromise.
 
+
+### Demo
+
+<a href="https://asciinema.org/a/ab9HJaoimixnxquavEMod9Xks" target="_blank"><img src="https://asciinema.org/a/ab9HJaoimixnxquavEMod9Xks.png" width="100%" heigth="300"></a>
+
+### Contact
+E-mail: M1tn1ck@protonmail.com
